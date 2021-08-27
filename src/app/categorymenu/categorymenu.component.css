@@ -1,0 +1,16 @@
+.icon-size {
+    height: 40px;
+    width: 40px;
+    color: lightcoral;
+}
+ a{
+    text-decoration: none;
+    color: black;
+}
+.row{
+    justify-content: center;
+}
+img  {
+    border: 2px solid black;
+    margin-left: 10px;
+}
